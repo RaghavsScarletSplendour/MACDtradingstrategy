@@ -25,9 +25,9 @@ To run this project, clone the repository and execute the main notebook:
 
 Clone the repository:
 `git clone [your-repository-link]
-cd [repository-name]`
+cd [repository-name]
+jupyter notebook MACD_strategy-live-coding.ipynb`
 
-`jupyter notebook MACD_strategy-live-coding.ipynb`
 Follow the instructions within the notebook to evaluate different strategies and visualize the results.
 
 ## Contributing
